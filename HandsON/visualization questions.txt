@@ -1,0 +1,35 @@
+1. Create scatter plots for the following data, make sure all the plots appear in the same
+plane with x-labels and y-labels evenly spaced.
+
+a. Create scatter plots with between (mpg-hp, mpg-weight), and (hp-mpg,
+hp-time-to-60) with respect to each brand.
+
+2. Create bar plots for the following, make sure all the plots appear in the same plane with
+x-labels and y-labels evenly spaced.
+
+a. Create a bar plot that shows the visual representation of hp, mpg, weight,
+time-to-60 with respect to the number of cylinders for each of the brands.
+
+b. Create a bar plot that shows the visual representation of hp, mpg, weight and
+time-to-60 with respect to the years, for each brand.
+
+3. Create box plots for the following:
+
+a. Create box plots for the columns in the step1 with respect to the number of
+cylinders and brand respectively.
+
+4. Create pair plots for the entire data to study various patterns in the data.
+
+a. Create pair plots with respect to brand, number of cylinders, year, etc.
+
+5. Create a heatmap for the entire data to study correlation between each of the columns.
+
+6. Create a histogram for the following:
+
+a. Create histograms for hp, mpg, time-to-60, weight lbs, cubic inches, year, with
+respect to brand.
+
+7. Create line plots for the following:
+
+a. Line plot between hp-mpg, hp-(time-to-60), mpg-(time-to-60), hp-weight lbs,
+mpg-weight lbs, cubic inches-weight lbs
